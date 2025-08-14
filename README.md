@@ -42,8 +42,8 @@ This repository contains a complete sentiment analysis pipeline using IMDb movie
 - Demo function `predict_sentiment(text)` for real-time predictions
 
 ```python
-print(predict_sentiment("The plot was boring and the acting was terrible."))
-# Output: Negative
+print(predict_sentiment("A beautifully told story with heartfelt performances. Inspiring, emotional, and unforgettable."))
+# Output: Positive
 ```
 ## 📊 Evaluation Metrics
 | Metric     | Logistic Regression | Deep Learning |
