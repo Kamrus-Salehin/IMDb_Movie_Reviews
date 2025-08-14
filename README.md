@@ -46,7 +46,7 @@ print(predict_sentiment("The plot was boring and the acting was terrible."))
 # Output: Negative
 
 | Metric     | Logistic Regression | Deep Learning |
-|:-----------|:-------------------:|--------------:|
+|------------|---------------------|---------------|
 | Accuracy   | 88%                 | 88%           |
 | Precision  | 0.89 / 0.88         | 0.89 / 0.88   |
 | Recall     | 0.88 / 0.89         | 0.88 / 0.89   |
