@@ -45,7 +45,7 @@ This repository contains a complete sentiment analysis pipeline using IMDb movie
 print(predict_sentiment("The plot was boring and the acting was terrible."))
 # Output: Negative
 ```
-
+## 📊 Evaluation Metrics
 | Metric     | Logistic Regression | Deep Learning |
 |------------|---------------------|---------------|
 | Accuracy   | 88%                 | 88%           |
