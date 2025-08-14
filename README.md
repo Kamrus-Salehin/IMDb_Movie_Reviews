@@ -6,7 +6,7 @@ This repository contains a complete sentiment analysis pipeline using IMDb movie
 
 ## 📁 Dataset
 
-- Source: [mantri7/imdb-movie-reviews-dataset](https://www.kaggle.com/datasets/mantri7/imdb-movie-reviews-dataset)
+- Source: [Kaggle](https://www.kaggle.com/datasets/mantri7/imdb-movie-reviews-dataset)
 - Format: CSV with two columns: `review` and `label`
 - Labels: `1` for positive, `0` for negative
 
